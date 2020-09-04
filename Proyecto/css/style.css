@@ -1,0 +1,21 @@
+header{
+	background-color: #3D9A9B;
+}
+
+#hero{
+	background-image: url("../img/Honduras tips final-11.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	padding: 100px 0px;
+	color: #FFFFFF;
+}
+
+#hero h2{
+	font-size: 24px;
+	padding-top: 300px;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: "Segoe UI";
+}
