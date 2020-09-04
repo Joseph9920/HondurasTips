@@ -8,6 +8,10 @@ header{
 	padding: 0;
 	text-align: center;
 }
+.content{
+	padding-left: 40px;
+	text-align: left;
+}
 
 .nav-link{
 	background-color: #659999;
@@ -17,7 +21,6 @@ header{
 }
 
 #hero{
-	background-image: url("../img/honduras tips final-11.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
