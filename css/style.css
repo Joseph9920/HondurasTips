@@ -1,0 +1,72 @@
+body{
+	font-size: 14px;
+	font-family: Helvetica;
+}
+
+header{
+	background-color: #3D9A9B;
+	padding: 0;
+	text-align: center;
+}
+
+.nav-link{
+	background-color: #659999;
+	text-align: center;
+	font-size: 25px;
+	padding: 10px;
+}
+
+#hero{
+	background-image: url("../img/Honduras tips final-11.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	padding: 100px 0px;
+	color: #FFFFFF;
+}
+
+#hero h2{
+	font-size: 24px;
+	padding-top: 300px;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: "Segoe UI";
+}
+
+
+#Hoteles {
+	background-color: #003333;
+	color: #fff;
+	text-align: justify;
+}
+#Hoteles h2{
+	text-align: center;
+	padding: 30px;
+}
+.content{
+	padding: 20px;
+}
+
+.espacio-columnas {
+	padding: 20px 37px;
+}
+
+footer{
+	background-color: #659999;
+	padding: 15px;
+	text-align: center;
+	color: #fff;
+}
+.fa-facebook-square{
+	font-size: 35px;
+	letter-spacing: 12px;
+}
+.fa-instagram{
+	font-size: 35px;
+	letter-spacing: 8px;
+}
+.fa-whatsapp{
+	font-size: 35px;
+	letter-spacing: 8px;
+}
