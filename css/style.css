@@ -8,6 +8,7 @@ header{
 	padding: 0;
 	text-align: center;
 }
+
 .content{
 	padding-left: 40px;
 	text-align: left;
@@ -51,6 +52,12 @@ header{
 	padding: 10px;
 	text-align: center;
 	color: #659999;
+}
+#Hoteles a{
+	color: #659999;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
 }
 .content{
 	padding: 20px;
@@ -103,4 +110,10 @@ footer .copy{
 }
 #Restaurantes p{
 	margin: 35px 0;
+}
+#Restaurantes a{
+	color: #659999;
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
 }
